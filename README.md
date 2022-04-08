@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-quark1 and I'm eager to learn new stuff!
-- 👀 I’m interested in JAVA, C++, JS and cubing
-- 🌱 I’m currently learning JAVA, JS
+- 👀 I’m interested in JAVA, C++, C#, JS and cubing
+- 🌱 I’m currently learning JAVA, NodeJS
 - 💞️ I’m looking to collaborate on ...(idk)
 - 📫 How to reach me ...(Jesus, please don't)
 
