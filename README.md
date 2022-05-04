@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA, C++, C#, JS and cubing
 - 🌱 I’m currently learning JAVA, NodeJS
 - 💞️ I’m looking to collaborate on ...(idk)
-- 📫 How to reach me ...(Jesus, please don't)
+- 📫 I wanna be a Java dev
 
 <!---
 S-quark1/S-quark1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
